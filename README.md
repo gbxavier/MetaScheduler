@@ -1,2 +1,2 @@
 # MetaScheduler
-MetaScheduler writed in C for FreeRTOS.
+MetaScheduler wrote using C language for FreeRTOS.
